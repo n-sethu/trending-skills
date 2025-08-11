@@ -30,9 +30,9 @@ if df.empty:
     print("No jobs found. Exiting.")
     exit()
 
-# 2. SKILL FREQUENCY ANALYSIS
+# frequency analysis
 
-skills = ["python", "java", "javascript", "c++", "sql", "aws", "docker", "react", "node", "tensorflow"]
+skills = ["python", "java", "javascript", "c++", "sql", "aws", "docker", "react", "node", "tensorflow","pytorch","azure"]
 freq = {skill: 0 for skill in skills}
 
 for desc in df['description']:
