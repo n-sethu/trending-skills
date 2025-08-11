@@ -32,7 +32,7 @@ This Python project scrapes job listings from the [RemoteOK API](https://remoteo
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/nikhil_sethu/trending-skills.git
+git clone https://github.com/n-sethu/trending-skills.git
 cd trending-skills 
 ```
 
