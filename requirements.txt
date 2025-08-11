@@ -5,3 +5,4 @@ matplotlib
 pandas
 seaborn
 wordcloud
+python3.13
